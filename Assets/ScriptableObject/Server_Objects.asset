@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558b21d493059447a99f9f4c4a8fb6d9, type: 3}
+  m_Name: Server_Objects
+  m_EditorClassIdentifier: 
+  Objects:
+  - Name: Bullet
+    Prefab: {fileID: 250404629315077899, guid: 4a6ce1c8fc92c493a9160a56a9633b7c, type: 3}
+  - Name: AI_Tank
+    Prefab: {fileID: 7314931298797371112, guid: 92fee842d11fa4f229ae9d4184c367bc, type: 3}
